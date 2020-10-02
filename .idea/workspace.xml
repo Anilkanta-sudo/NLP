@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3cc72f3-6e47-49e2-aa6b-075e8cf22099" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1dvxarDKYIFt3KBSJQrJEM6UyG8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.spam_classifier">
+    <configuration name="spam_classifier" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NLP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sample" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sample/spam_classifier.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tf_idf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NLP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sample" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sample/tf_idf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.spam_classifier" />
+        <item itemvalue="Python.tf_idf" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3cc72f3-6e47-49e2-aa6b-075e8cf22099" name="Default Changelist" comment="" />
+      <created>1593319435021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593319435021</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="315" y="44" key="#Inspections" timestamp="1594193087393">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="315" y="44" key="#Inspections/65.24.1301.744@65.24.1301.744" timestamp="1594193087393" />
+    <state x="503" y="141" key="FileChooserDialogImpl" timestamp="1594039204962">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="503" y="141" key="FileChooserDialogImpl/65.24.1301.744@65.24.1301.744" timestamp="1594039204962" />
+    <state width="1278" height="193" key="GridCell.Tab.0.bottom" timestamp="1593431225316">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1278" height="193" key="GridCell.Tab.0.bottom/65.24.1301.744@65.24.1301.744" timestamp="1593431225316" />
+    <state width="1278" height="193" key="GridCell.Tab.0.center" timestamp="1593431225316">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1278" height="193" key="GridCell.Tab.0.center/65.24.1301.744@65.24.1301.744" timestamp="1593431225315" />
+    <state width="1278" height="193" key="GridCell.Tab.0.left" timestamp="1593431225315">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1278" height="193" key="GridCell.Tab.0.left/65.24.1301.744@65.24.1301.744" timestamp="1593431225315" />
+    <state width="1278" height="193" key="GridCell.Tab.0.right" timestamp="1593431225316">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1278" height="193" key="GridCell.Tab.0.right/65.24.1301.744@65.24.1301.744" timestamp="1593431225316" />
+    <state width="1278" height="240" key="GridCell.Tab.1.bottom" timestamp="1593327211440">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1278" height="240" key="GridCell.Tab.1.bottom/65.24.1301.744@65.24.1301.744" timestamp="1593327211440" />
+    <state width="1278" height="240" key="GridCell.Tab.1.center" timestamp="1593327211439">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1278" height="240" key="GridCell.Tab.1.center/65.24.1301.744@65.24.1301.744" timestamp="1593327211439" />
+    <state width="1278" height="240" key="GridCell.Tab.1.left" timestamp="1593327211438">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1278" height="240" key="GridCell.Tab.1.left/65.24.1301.744@65.24.1301.744" timestamp="1593327211438" />
+    <state width="1278" height="240" key="GridCell.Tab.1.right" timestamp="1593327211439">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1278" height="240" key="GridCell.Tab.1.right/65.24.1301.744@65.24.1301.744" timestamp="1593327211439" />
+    <state x="376" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1594012071988">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="376" y="211" key="com.intellij.ide.util.TipDialog/65.24.1301.744@65.24.1301.744" timestamp="1594012071988" />
+    <state x="378" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1593431163070">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="378" y="89" width="672" height="678" key="search.everywhere.popup/65.24.1301.744@65.24.1301.744" timestamp="1593431163070" />
+  </component>
+</project>
